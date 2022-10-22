@@ -3,7 +3,7 @@
 	"version": 1,
 	"newProjectRoot": "projects",
 	"projects": {
-		"JayantGoel001": {
+		"magnetoasher": {
 			"projectType": "application",
 			"schematics": {
 				"@schematics/angular:application": {
@@ -29,10 +29,7 @@
 							"src/browserconfig.xml",
 							"src/favicon-16x16.png",
 							"src/favicon-32x32.png",
-							"src/LICENSE",
 							"src/manifest.webmanifest",
-							"src/robots.txt",
-							"src/sitemap_index.xml",
 							"src/README.md",
 							"src/screenshots"
 						],
@@ -87,10 +84,10 @@
 					"builder": "@angular-devkit/build-angular:dev-server",
 					"configurations": {
 						"production": {
-							"browserTarget": "JayantGoel001:build:production"
+							"browserTarget": "magnetoasher:build:production"
 						},
 						"development": {
-							"browserTarget": "JayantGoel001:build:development"
+							"browserTarget": "magnetoasher:build:development"
 						}
 					},
 					"defaultConfiguration": "development"
@@ -98,7 +95,7 @@
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
 					"options": {
-						"browserTarget": "JayantGoel001:build"
+						"browserTarget": "magnetoasher:build"
 					}
 				},
 				"test": {
