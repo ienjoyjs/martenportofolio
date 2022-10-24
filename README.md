@@ -34,9 +34,6 @@
 - [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
 - [PageSpeed Insights](#pagespeed-insights)
 - [Creator / Maintainer](#creator--maintainer-man_technologist)
-- [Contributing](#-contributing)
-- [Contributors](#contributors-)
-- [License](#-license)
 
 ## Design :art:
 
@@ -260,11 +257,6 @@ git --version
     |   |       about.component.html
     |   |       about.component.ts
     |   |       
-    |   +---achievement
-    |   |       achievement.component.css
-    |   |       achievement.component.html
-    |   |       achievement.component.ts
-    |   |       
     |   +---application
     |   |       application.component.css
     |   |       application.component.html
@@ -312,10 +304,10 @@ git --version
     |   |       social.component.html
     |   |       social.component.ts
     |   |       
-    |   +---training
-    |   |       training.component.css
-    |   |       training.component.html
-    |   |       training.component.ts
+    |   +---works
+    |   |       works.component.css
+    |   |       works.component.html
+    |   |       works.component.ts
     |   |       
     |   \---waifu
     |           Model.ts
