@@ -368,18 +368,13 @@ git --version
     |   |   |   quote-img.webp
     |   |   |   safari-pinned-tab.svg
     |   |   |   
-    |   |   +---achievement
-    |   |   |       DataScience.webp
-    |   |   |       HackerRank.webp
-    |   |   |       Hacktoberfest.webp
-    |   |   |       
     |   |   \---portfolio
-    |   |           A-Social-Media.webp
-    |   |           AI-Image-Caption-Bot.webp
-    |   |           AI-Music-Generation.webp
-    |   |           E-Commerce-Site.webp
-    |   |           School-Donation-Analysis.webp
-    |   |           URL-Shortner.webp
+    |   |           Apsis.png
+    |   |           Colligo.png
+    |   |           CroVillas.png
+    |   |           LiveFeather.png
+    |   |           PlanZ.png
+    |   |           Toddle.png
     |   |           
     |   +---js
     |   |       live2d.min.js
