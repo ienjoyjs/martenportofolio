@@ -1,15 +1,15 @@
 {
-	"name": "kiganfolio",
+	"name": "wadafolio",
 	"version": "2.0.0",
-	"description": "Kian Egan's Personal Portfolio",
+	"description": "Jeffrey Wada's Personal Portfolio",
 	"main": "index.js",
-	"author": "Kian Egan",
+	"author": "Jeffrey Wada",
 	"license": "MIT",
 	"keywords": [
-		"Kian Egan's Personal Portfolio"
+		"Jeffrey Wada's Personal Portfolio"
 	],
-	"repository": "https://github.com/magnetoasher/kiganfolio",
-	"homepage": "https://kiganfolio.netlify.app",
+	"repository": "https://github.com/magnetoasher/wadafolio",
+	"homepage": "https://wadafolio.netlify.app",
 	"scripts": {
 		"ng": "ng",
 		"start": "ng serve",

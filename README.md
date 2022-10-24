@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://kiganfolio.netlify.app/">kiganfolio</a>
+	<a href="https://wadafolio.netlify.app/">Wadafolio</a>
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -17,14 +17,7 @@
 
 <div align="center">
   <img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
-	<h3 align="center">Kian Egan's Personal Portfolio</h3>
-	<p align="center">
-		This is the source code for my Personal Portfolio.
-		<br/>
-		<br/>
-		<br/>
-		<a href="https://kiganfolio.netlify.app/">View Demo</a>
-	</p>
+	<h3 align="center">Jeffrey Wada's Personal Portfolio</h3>
 </div>
 <br/>
 
@@ -153,7 +146,7 @@ git --version
 - Navigate to working Directory and **main** branch
 
   ```bash
-  cd kiganfolio
+  cd wadafolio
   git switch main
   ```
 
@@ -483,15 +476,12 @@ mandatory.
 
 ## Creator / Maintainer :man_technologist:
 
-👤 Kian Egan ([magnetoasher](https://github.com/magnetoasher))
+👤 Jeffrey Wada ([magnetoasher](https://github.com/magnetoasher))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/kianegan5027"> 
-    	<img alt="Connect via LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  	</a>
-	<a href="mailto:riselinker@gmail.com"> 
+	<a href="mailto:jwclayer@gmail.com"> 
 		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </p>

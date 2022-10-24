@@ -7,7 +7,7 @@ import { SwUpdate } from '@angular/service-worker'
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent implements AfterViewInit, OnInit {
-  title = "Kian Egan 's Personal Portfolio"
+  title = "Jeffrey Wada 's Personal Portfolio"
 
   constructor(private swUpdate: SwUpdate) {}
   ngOnInit() {
