@@ -1,15 +1,15 @@
 {
-	"name": "wadafolio",
+	"name": "martenfolio",
 	"version": "2.0.0",
-	"description": "Jeffrey Wada's Personal Portfolio",
+	"description": "Marten's Personal Portfolio",
 	"main": "index.js",
-	"author": "Jeffrey Wada",
+	"author": "Marten",
 	"license": "MIT",
 	"keywords": [
-		"Jeffrey Wada's Personal Portfolio"
+		"Marten's Personal Portfolio"
 	],
-	"repository": "https://github.com/magnetoasher/wadafolio",
-	"homepage": "https://wadafolio.netlify.app",
+	"repository": "https://github.com/ienjoyjs/martenfolio",
+	"homepage": "https://martenfolio.netlify.app",
 	"scripts": {
 		"ng": "ng",
 		"start": "ng serve",

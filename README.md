@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://wadafolio.netlify.app/">Wadafolio</a>
+	<a href="https://martenfolio.netlify.app/">Martenfolio</a>
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -17,23 +17,23 @@
 
 <div align="center">
   <img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
-	<h3 align="center">Jeffrey Wada's Personal Portfolio</h3>
+	<h3 align="center">Marten's Personal Portfolio</h3>
 </div>
 <br/>
 
 ## Table of Contents :scroll:
 
-- [Design](#design-art)
-  - [Fonts](#fonts)
-  - [Color Scheme](#color-scheme)
-  - [Icon](#icon)
-- [Built With](#built-with-package)
-- [How to Run Locally?](#how-to-run-locally-dart)
-- [Sections](#sections-bookmark)
-- [Folder Structure](#folder-structure-open_file_folder)
-- [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
-- [PageSpeed Insights](#pagespeed-insights)
-- [Creator / Maintainer](#creator--maintainer-man_technologist)
+-   [Design](#design-art)
+    -   [Fonts](#fonts)
+    -   [Color Scheme](#color-scheme)
+    -   [Icon](#icon)
+-   [Built With](#built-with-package)
+-   [How to Run Locally?](#how-to-run-locally-dart)
+-   [Sections](#sections-bookmark)
+-   [Folder Structure](#folder-structure-open_file_folder)
+-   [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
+-   [PageSpeed Insights](#pagespeed-insights)
+-   [Creator / Maintainer](#creator--maintainer-man_technologist)
 
 ## Design :art:
 
@@ -47,13 +47,13 @@
 
 #### Main Screen
 
-- **Gunmetal** - Primary theme color
-- **Yellow Orange Color Wheel** - Secondary theme color
-- **Eerie Black** - Dark Text Color
-- **Sonic Silver** - Muted Text Color
-- **White** - Text Color
-- **Cultured** - Light Text Color & Light Background Color
-- **Dutch White** - Waifu Tips Background Color
+-   **Gunmetal** - Primary theme color
+-   **Yellow Orange Color Wheel** - Secondary theme color
+-   **Eerie Black** - Dark Text Color
+-   **Sonic Silver** - Muted Text Color
+-   **White** - Text Color
+-   **Cultured** - Light Text Color & Light Background Color
+-   **Dutch White** - Waifu Tips Background Color
 
 <a href="https://coolors.co/242a35-ff9800-212529-6c757d-ffffff-f8f9fa-ecd9bc">
   <img alt="Color Palette Screenshot" src="src/screenshots/color-main.png"/>
@@ -64,11 +64,11 @@
 
 #### Splash Screen & 404 Page
 
-- **Rich Black FOGRA 39** - Background Color of Splash Screen
-- **Smoky Black** - Path of Splash Circle of Splash Screen
-- **Yellow** - Outer Splash Circle color
-- **Blue Jeans** - Inner Splash Circle color
-- **Dark Jungle Green** - 404 Text Color
+-   **Rich Black FOGRA 39** - Background Color of Splash Screen
+-   **Smoky Black** - Path of Splash Circle of Splash Screen
+-   **Yellow** - Outer Splash Circle color
+-   **Blue Jeans** - Inner Splash Circle color
+-   **Dark Jungle Green** - 404 Text Color
 
 <a href="https://coolors.co/090909-121212-ffff00-03a9f4-011718">
   <img alt="Color Palette Screenshot" src="src/screenshots/color-loader-404.png"/>
@@ -90,27 +90,27 @@ favicons on all browsers and platforms.
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
 <link
-  rel="mask-icon"
-  href="assets/images/safari-pinned-tab.svg"
-  color="#242a35"
+	rel="mask-icon"
+	href="assets/images/safari-pinned-tab.svg"
+	color="#242a35"
 />
 <meta name="msapplication-TileColor" content="#242a35" />
 <meta name="msapplication-TileImage" content="assets/images/mstile-70x70.png" />
 <meta
-  name="msapplication-TileImage"
-  content="assets/images/mstile-144x144.png"
+	name="msapplication-TileImage"
+	content="assets/images/mstile-144x144.png"
 />
 <meta
-  name="msapplication-TileImage"
-  content="assets/images/mstile-150x150.png"
+	name="msapplication-TileImage"
+	content="assets/images/mstile-150x150.png"
 />
 <meta
-  name="msapplication-TileImage"
-  content="assets/images/mstile-310x150.png"
+	name="msapplication-TileImage"
+	content="assets/images/mstile-310x150.png"
 />
 <meta
-  name="msapplication-TileImage"
-  content="assets/images/mstile-310x310.png"
+	name="msapplication-TileImage"
+	content="assets/images/mstile-310x310.png"
 />
 ```
 
@@ -119,16 +119,16 @@ These are the Font Awesome Icons used
 
 ## Built With :package:
 
-- 💙 [HTML5](https://www.w3schools.com/html/)
-- 💜 [CSS3](https://www.w3schools.com/css/)
-- 💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
-- 💜 [TypeScript](https://www.typescriptlang.org/)
-- 💙 [Angular](https://angular.io/)
-- 💜 [NodeJS](https://nodejs.org/)
-- 💙 [Bootstrap](https://getbootstrap.com/)
-- 💜 [Google Font](https://fonts.google.com/) for the fonts
-- 💙 [FontAwesome](https://fontawesome.com/) for the icons
-- 💜 [GitHub Pages](https://pages.github.com/) for hosting
+-   💙 [HTML5](https://www.w3schools.com/html/)
+-   💜 [CSS3](https://www.w3schools.com/css/)
+-   💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+-   💜 [TypeScript](https://www.typescriptlang.org/)
+-   💙 [Angular](https://angular.io/)
+-   💜 [NodeJS](https://nodejs.org/)
+-   💙 [Bootstrap](https://getbootstrap.com/)
+-   💜 [Google Font](https://fonts.google.com/) for the fonts
+-   💙 [FontAwesome](https://fontawesome.com/) for the icons
+-   💜 [GitHub Pages](https://pages.github.com/) for hosting
 
 ## How to run locally? :dart:
 
@@ -140,69 +140,69 @@ node --version
 git --version
 ```
 
-- Navigate to working Directory and **main** branch
+-   Navigate to working Directory and **main** branch
 
-  ```bash
-  cd wadafolio
-  git switch main
-  ```
+    ```bash
+    cd martenfolio
+    git switch main
+    ```
 
-- Install the dependencies:
+-   Install the dependencies:
 
-  ```bash
-  npm install
-  ```
+    ```bash
+    npm install
+    ```
 
-  - Installs all the dependencies required by the project.
+    -   Installs all the dependencies required by the project.
 
-- Fire up a development server:
+-   Fire up a development server:
 
-  ```bash
-  ng serve
-  ```
+    ```bash
+    ng serve
+    ```
 
-  - Runs the app in the `development` mode.
-  - Open [http://localhost:4200/](http://localhost:4200/) to view it in the
-    Default Browser.
-  - The page will reload if you make edits.
-  - You will also see any lint errors in the console.
+    -   Runs the app in the `development` mode.
+    -   Open [http://localhost:4200/](http://localhost:4200/) to view it in the
+        Default Browser.
+    -   The page will reload if you make edits.
+    -   You will also see any lint errors in the console.
 
-- Deploy code to GitHub Pages (gh-pages):
+-   Deploy code to GitHub Pages (gh-pages):
 
-  ```bash
-  ng deploy --base-href="/"
-  ```
+    ```bash
+    ng deploy --base-href="/"
+    ```
 
-  - Builds the application for production to the `build` folder & deploys
-    application on `GitHub Pages`.
-  - It correctly bundles Angular in production mode and optimizes the build for
-    the best performance.
-  - The build is minified and the filenames include the hashes.
+    -   Builds the application for production to the `build` folder & deploys
+        application on `GitHub Pages`.
+    -   It correctly bundles Angular in production mode and optimizes the build for
+        the best performance.
+    -   The build is minified and the filenames include the hashes.
 
-- Create a new branch:
+-   Create a new branch:
 
-  ```bash
-  git checkout -b "<NAME-OF-THE-BRANCH>"
-  ```
+    ```bash
+    git checkout -b "<NAME-OF-THE-BRANCH>"
+    ```
 
-- Add, Commit & Push the local changes to remote repository:
+-   Add, Commit & Push the local changes to remote repository:
 
-  ```bash
-  git add .
-  git commit -m "<COMMIT-MESSAGE>"
-  git push origin <NAME-OF-THE-BRANCH>
-  ```
+    ```bash
+    git add .
+    git commit -m "<COMMIT-MESSAGE>"
+    git push origin <NAME-OF-THE-BRANCH>
+    ```
 
 ## Sections :bookmark:
 
-- Home
-- About
-  - About
-  - Skill
-  - Education
-- Portfolio
-- Work Experience
-- Contact
+-   Home
+-   About
+    -   About
+    -   Skill
+    -   Education
+-   Portfolio
+-   Work Experience
+-   Contact
 
 ## Folder Structure :open_file_folder:
 
@@ -437,38 +437,38 @@ mandatory.
 <meta name="twitter:card" content="summary_large_image" />
 
 <script type="application/ld+json">
-  {
-    "@type": "Person",
-    "@context": "https://schema.org",
-    "url": "--- YOUR SITE URL ---",
-    "description": "--- SITE DESCRIPTION ---",
-    "name": "--- YOUR NAME ---",
-    "image": "--- YOUR IMAGE ---",
-    "email": "--- YOUR EMAIL ---",
-    "address": "--- YOUR LOCATION ---",
-    "sameAs": [
-      "https://github.com/--- YOUR USERNAME ---/",
-      "https://www.linkedin.com/in/--- YOUR USERNAME ---/",
-      "https://gist.github.com/--- YOUR USERNAME ---/",
-      "https://www.hackerrank.com/--- YOUR USERNAME ---",
-      "https://www.instagram.com/--- YOUR USERNAME ---/",
-      "https://www.facebook.com/--- YOUR USERNAME ---/",
-      "https://twitter.com/--- YOUR USERNAME ---/",
-      "https://dev.to/--- YOUR USERNAME ---",
-      "https://wa.me/--- YOUR MOBILE NUMBER ---"
-    ]
-  }
+	{
+		"@type": "Person",
+		"@context": "https://schema.org",
+		"url": "--- YOUR SITE URL ---",
+		"description": "--- SITE DESCRIPTION ---",
+		"name": "--- YOUR NAME ---",
+		"image": "--- YOUR IMAGE ---",
+		"email": "--- YOUR EMAIL ---",
+		"address": "--- YOUR LOCATION ---",
+		"sameAs": [
+			"https://github.com/--- YOUR USERNAME ---/",
+			"https://www.linkedin.com/in/--- YOUR USERNAME ---/",
+			"https://gist.github.com/--- YOUR USERNAME ---/",
+			"https://www.hackerrank.com/--- YOUR USERNAME ---",
+			"https://www.instagram.com/--- YOUR USERNAME ---/",
+			"https://www.facebook.com/--- YOUR USERNAME ---/",
+			"https://twitter.com/--- YOUR USERNAME ---/",
+			"https://dev.to/--- YOUR USERNAME ---",
+			"https://wa.me/--- YOUR MOBILE NUMBER ---"
+		]
+	}
 </script>
 ```
 
 ## Creator / Maintainer :man_technologist:
 
-👤 Jeffrey Wada ([magnetoasher](https://github.com/magnetoasher))
+👤 Marten ([ienjoyjs](https://github.com/ienjoyjs))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-	<a href="mailto:jwclayer@gmail.com"> 
+	<a href="mailto:ust.organ@gmail.com"> 
 		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </p>
